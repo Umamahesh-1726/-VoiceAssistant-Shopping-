@@ -1,0 +1,97 @@
+{
+  "Groceries & Essentials": [
+    { "id": "p_rice", "name": "Premium Basmati Rice", "price": 80, "image": "https://cdn-icons-png.flaticon.com/512/3050/3050164.png" },
+    { "id": "p_wheatflour", "name": "Whole Wheat Flour", "price": 65, "image": "https://cdn-icons-png.flaticon.com/512/2553/2553691.png" },
+    { "id": "p_sugar", "name": "White Sugar", "price": 45, "image": "https://cdn-icons-png.flaticon.com/512/1198/1198314.png" },
+    { "id": "p_salt", "name": "Iodized Salt", "price": 20, "image": "https://cdn-icons-png.flaticon.com/512/3050/3050253.png" },
+    { "id": "p_oil", "name": "Sunflower Cooking Oil", "price": 160, "image": "https://cdn-icons-png.flaticon.com/512/1046/1046749.png" }
+  ],
+
+  "Fruits & Vegetables": [
+    { "id": "p_apple", "name": "Organic Apple", "price": 50, "image": "https://cdn-icons-png.flaticon.com/512/415/415733.png" },
+    { "id": "p_banana", "name": "Fresh Banana", "price": 30, "image": "https://cdn-icons-png.flaticon.com/512/415/415682.png" },
+    { "id": "p_mango", "name": "Mango", "price": 80, "image": "https://cdn-icons-png.flaticon.com/512/135/135728.png" },
+    { "id": "p_tomato", "name": "Tomato", "price": 35, "image": "https://cdn-icons-png.flaticon.com/512/1202/1202707.png" },
+    { "id": "p_potato", "name": "Potato", "price": 40, "image": "https://cdn-icons-png.flaticon.com/512/2224/2224183.png" }
+  ],
+
+  "Snacks & Packaged Food": [
+    { "id": "p_lays", "name": "Lays Chips", "price": 20, "image": "https://cdn-icons-png.flaticon.com/512/706/706164.png" },
+    { "id": "p_maggi", "name": "Maggi Noodles", "price": 15, "image": "https://cdn-icons-png.flaticon.com/512/3075/3075866.png" },
+    { "id": "p_biscuits", "name": "Good Day Biscuits", "price": 35, "image": "https://cdn-icons-png.flaticon.com/512/1046/1046858.png" },
+    { "id": "p_namkeen", "name": "Haldiram's Mixture", "price": 70, "image": "https://cdn-icons-png.flaticon.com/512/2771/2771468.png" },
+    { "id": "p_chocolate", "name": "Dairy Milk Chocolate", "price": 60, "image": "https://cdn-icons-png.flaticon.com/512/706/706177.png" }
+  ],
+
+  "Beverages": [
+    { "id": "p_coke", "name": "Coca-Cola", "price": 60, "image": "https://cdn-icons-png.flaticon.com/512/3144/3144456.png" },
+    { "id": "p_pepsi", "name": "Pepsi", "price": 60, "image": "https://cdn-icons-png.flaticon.com/512/924/924514.png" },
+    { "id": "p_frooti", "name": "Frooti Mango Drink", "price": 35, "image": "https://cdn-icons-png.flaticon.com/512/2553/2553691.png" },
+    { "id": "p_juice", "name": "Tropicana Orange Juice", "price": 120, "image": "https://cdn-icons-png.flaticon.com/512/1046/1046763.png" },
+    { "id": "p_water", "name": "Mineral Water", "price": 25, "image": "https://cdn-icons-png.flaticon.com/512/924/924514.png" }
+  ],
+
+  "Dairy & Bakery": [
+    { "id": "p_milk", "name": "Full Cream Milk", "price": 60, "image": "https://cdn-icons-png.flaticon.com/512/869/869869.png" },
+    { "id": "p_butter", "name": "Salted Butter", "price": 90, "image": "https://cdn-icons-png.flaticon.com/512/415/415777.png" },
+    { "id": "p_paneer", "name": "Fresh Paneer", "price": 120, "image": "https://cdn-icons-png.flaticon.com/512/706/706172.png" },
+    { "id": "p_cheese", "name": "Cheddar Cheese", "price": 150, "image": "https://cdn-icons-png.flaticon.com/512/706/706172.png" },
+    { "id": "p_bread", "name": "Whole Wheat Bread", "price": 40, "image": "https://cdn-icons-png.flaticon.com/512/2771/2771401.png" }
+  ],
+
+  "Home Care": [
+    { "id": "p_surfexcel", "name": "Surf Excel Detergent", "price": 180, "image": "https://cdn-icons-png.flaticon.com/512/2553/2553642.png" },
+    { "id": "p_lizol", "name": "Lizol Floor Cleaner", "price": 160, "image": "https://cdn-icons-png.flaticon.com/512/2913/2913133.png" },
+    { "id": "p_harpic", "name": "Harpic Toilet Cleaner", "price": 140, "image": "https://cdn-icons-png.flaticon.com/512/2771/2771356.png" },
+    { "id": "p_vim", "name": "Vim Dishwash Bar", "price": 60, "image": "https://cdn-icons-png.flaticon.com/512/3050/3050172.png" },
+    { "id": "p_detol", "name": "Dettol Antiseptic", "price": 85, "image": "https://cdn-icons-png.flaticon.com/512/2913/2913106.png" }
+  ],
+
+  "Personal Care": [
+    { "id": "p_dove", "name": "Dove Soap", "price": 60, "image": "https://cdn-icons-png.flaticon.com/512/2553/2553730.png" },
+    { "id": "p_colgate", "name": "Colgate Toothpaste", "price": 95, "image": "https://cdn-icons-png.flaticon.com/512/2553/2553691.png" },
+    { "id": "p_shampoo", "name": "Head & Shoulders Shampoo", "price": 220, "image": "https://cdn-icons-png.flaticon.com/512/2553/2553712.png" },
+    { "id": "p_lotion", "name": "Vaseline Lotion", "price": 280, "image": "https://cdn-icons-png.flaticon.com/512/3050/3050198.png" },
+    { "id": "p_deo", "name": "Nivea Deodorant", "price": 230, "image": "https://cdn-icons-png.flaticon.com/512/2771/2771442.png" }
+  ],
+
+  "Spices & Masala": [
+    { "id": "p_chilli", "name": "Red Chilli Powder", "price": 60, "image": "https://cdn-icons-png.flaticon.com/512/3050/3050279.png" },
+    { "id": "p_turmeric", "name": "Turmeric Powder", "price": 55, "image": "https://cdn-icons-png.flaticon.com/512/2771/2771468.png" },
+    { "id": "p_coriander", "name": "Coriander Powder", "price": 50, "image": "https://cdn-icons-png.flaticon.com/512/3050/3050234.png" },
+    { "id": "p_garam", "name": "Garam Masala", "price": 75, "image": "https://cdn-icons-png.flaticon.com/512/3050/3050253.png" },
+    { "id": "p_pepper", "name": "Black Pepper", "price": 90, "image": "https://cdn-icons-png.flaticon.com/512/3050/3050267.png" }
+  ],
+
+  "Stationery & Others": [
+    { "id": "p_notebook", "name": "Notebook", "price": 70, "image": "https://cdn-icons-png.flaticon.com/512/2921/2921222.png" },
+    { "id": "p_pen", "name": "Ball Pen", "price": 15, "image": "https://cdn-icons-png.flaticon.com/512/3039/3039386.png" },
+    { "id": "p_marker", "name": "Marker Pen", "price": 40, "image": "https://cdn-icons-png.flaticon.com/512/2921/2921319.png" },
+    { "id": "p_glue", "name": "Glue Stick", "price": 25, "image": "https://cdn-icons-png.flaticon.com/512/2921/2921268.png" },
+    { "id": "p_battery", "name": "AA Batteries", "price": 60, "image": "https://cdn-icons-png.flaticon.com/512/2913/2913134.png" }
+  ],
+
+  "Medicinal": [
+    { "id": "p_paracetamol", "name": "Paracetamol Tablets", "price": 35, "image": "https://cdn-icons-png.flaticon.com/512/2913/2913133.png" },
+    { "id": "p_vicks", "name": "Vicks Vaporub", "price": 50, "image": "https://cdn-icons-png.flaticon.com/512/2913/2913106.png" },
+    { "id": "p_bandage", "name": "First Aid Bandage", "price": 25, "image": "https://cdn-icons-png.flaticon.com/512/1754/1754285.png" },
+    { "id": "p_dettol", "name": "Dettol Antiseptic Liquid", "price": 90, "image": "https://cdn-icons-png.flaticon.com/512/2913/2913140.png" },
+    { "id": "p_coughsyrup", "name": "Cough Syrup", "price": 120, "image": "https://cdn-icons-png.flaticon.com/512/2913/2913178.png" }
+  ],
+
+  "Automobiles": [
+    { "id": "p_engineoil", "name": "Engine Oil", "price": 750, "image": "https://cdn-icons-png.flaticon.com/512/2771/2771356.png" },
+    { "id": "p_tyrepolish", "name": "Tyre Polish", "price": 200, "image": "https://cdn-icons-png.flaticon.com/512/2913/2913106.png" },
+    { "id": "p_helmet", "name": "Rider Helmet", "price": 1200, "image": "https://cdn-icons-png.flaticon.com/512/2738/2738054.png" },
+    { "id": "p_carwash", "name": "Car Wash Shampoo", "price": 150, "image": "https://cdn-icons-png.flaticon.com/512/2553/2553642.png" },
+    { "id": "p_airfresh", "name": "Car Air Freshener", "price": 100, "image": "https://cdn-icons-png.flaticon.com/512/2771/2771442.png" }
+  ],
+
+  "Electronics": [
+    { "id": "p_headphones", "name": "Wireless Headphones", "price": 1500, "image": "https://cdn-icons-png.flaticon.com/512/3039/3039393.png" },
+    { "id": "p_smartwatch", "name": "Smart Watch", "price": 2500, "image": "https://cdn-icons-png.flaticon.com/512/4882/4882627.png" },
+    { "id": "p_usbdrive", "name": "32GB USB Drive", "price": 400, "image": "https://cdn-icons-png.flaticon.com/512/2906/2906274.png" },
+    { "id": "p_powerbank", "name": "Power Bank", "price": 999, "image": "https://cdn-icons-png.flaticon.com/512/4882/4882573.png" },
+    { "id": "p_speaker", "name": "Bluetooth Speaker", "price": 1800, "image": "https://cdn-icons-png.flaticon.com/512/2738/2738062.png" }
+  ]
+}
